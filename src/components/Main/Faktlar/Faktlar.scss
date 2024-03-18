@@ -1,0 +1,45 @@
+.Faktlar{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    .Faktlar__title{
+        font-size: 54px;
+        color: #000;
+        text-align: center;
+    }
+    .Faktlar__wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 59px;
+        .Faktlar__wrapper__card{
+            width: 384.48px;
+            height: 398px;
+            background-image: url('../../../assets/logo/Faktlar__wrapper__card.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding-top: 142px;
+            padding-left: 82px;
+            div{
+                width: 221.5px;
+                height: 205px;
+                background: #F5DDA9;
+                h2{
+                    width: 173px;
+                    font-size: 36px;
+                    color: #770613;
+                    text-align: center;
+                    margin: 0 auto;
+                    padding-bottom: 10px;
+                    border-bottom: 3px solid #770613;
+                }
+                p{
+                    font-size: 18px;
+                    color: #770613;
+                    text-align: center;
+                    margin-top: 27px;
+                    font-weight: 700;
+                }
+            }
+        }
+    }
+}

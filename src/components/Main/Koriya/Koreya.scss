@@ -1,0 +1,36 @@
+.Koreya {
+    // padding-top: 100px;
+    // padding-bottom: 358px;
+    // padding-left: 457px;
+    padding: 100px 0px 358px 0px;
+    background-image: url('../../../assets/bg/Koreya.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1067px;
+    width: 100%;
+
+    h2 {
+        width: 1043px;
+        text-align: start;
+        font-size: 54px;
+        color: #4D3300;
+
+    }
+
+    .Koreya__div {
+        width: 735px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 23px;
+
+        p {
+            width: 309px;
+            font-size: 24px;
+            color: #4D3300;
+            margin-top: 54px;
+
+        }
+    }
+}

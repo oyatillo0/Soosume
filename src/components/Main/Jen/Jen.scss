@@ -1,0 +1,107 @@
+.Jen {
+    padding-top: 228px;
+    padding-bottom: 152px;
+    background-image: url('../../../assets/logo/Je.bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.jen__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    .jen__wrapper__main {
+        width: 679px;
+        height: 565px;
+        background-image: url('../../../assets/logo/jen__price.png');
+        background-repeat: no-repeat;
+        padding-top: 217px;
+
+        img {
+            margin-left: 173px;
+        }
+
+        span {
+            width: 450px;
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 115px;
+            padding: 0 10px;
+
+            p {
+                font-size: 32px;
+                color: #fff;
+                margin-top: 7px;
+
+            }
+        }
+    }
+
+    .jen__wrapper__mainn {
+        width: 679px;
+        height: 565px;
+        background-image: url('../../../assets/logo/jen__price.png');
+        background-repeat: no-repeat;
+        padding-top: 217px;
+
+        img {
+            margin-left: 173px;
+        }
+
+        span {
+            width: 450px;
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 115px;
+            padding: 0 10px;
+
+            p {
+                font-size: 32px;
+                color: #fff;
+                margin-top: 7px;
+            }
+        }
+    }
+}
+
+.meniu {
+    width: 100%;
+    height: 602px;
+    background-image: url('../../../assets/logo/Meniu__bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 79px;
+    margin-top: 137px;
+
+    .meniu__title {
+        width: 670px;
+        height: 424px;
+        p{
+            font-size: 22.1px;
+            width: 100%;
+            height: 100%;
+
+
+        }
+    }
+
+    .maniu__img {
+        width: 551.72px;
+        height: 389.78px;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

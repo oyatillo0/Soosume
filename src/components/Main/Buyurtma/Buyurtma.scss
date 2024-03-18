@@ -1,0 +1,51 @@
+.buyurtma {
+    width: 100%;
+    height: 942px;
+    padding-top: 70px;
+    background-image: url("../../../assets/logo/Mask\ group.png"),url("../../../assets/logo/Buyurtma__bg__left.png");
+    background-repeat: no-repeat;
+    background-position: left top,right top;
+    background-size: 75% 120%,60% 100%;
+
+}
+.buyurtma__wrapper{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 250px;
+    padding-top: 223px;
+    background-image: url("../../../assets/svg/3\ 1.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.buyurtma__main{
+    padding-top: 68px;
+    p{
+        font-size: 30px;
+        color: white;
+    }
+    h2{
+        width:  576px;
+       font-size:  60px;
+       color: white;
+    }
+    button{
+        font-size: 18px;
+        padding: 18px 26px;
+        background: #167526;
+        border: none;
+        color: white;
+        margin-top: 50px;
+    }
+}
+.buyurtma__hero{
+    width: 640px;
+    height: 372px;
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+
+    }
+}

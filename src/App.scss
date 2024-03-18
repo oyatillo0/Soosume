@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url('../src/assets/fonts/Roboto_Slab/static/RobotoSlab-Light.ttf');
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+
+}
+input{
+  outline: none;
+}

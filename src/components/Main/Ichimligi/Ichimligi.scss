@@ -1,0 +1,28 @@
+.Ichimligi {
+    width: 100%;
+    // max-width: 1600px;
+    height: 734px;
+    padding-top: 89px;
+    padding-bottom: 56px;
+    background-image: url('../../../assets/logo/qiziljenshen__ichimligi__bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .ichimlik__text {
+        width: 50%;
+        background-color:transparent;
+        float: right;
+
+        h3 {
+            font-size: 36px;
+            width: 556px;
+            color: #fff;
+        }
+
+        p {
+            font-size: 21.4px;
+            margin-top: 30px;
+            color: #fff;
+        }
+    }
+}
